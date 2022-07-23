@@ -9,7 +9,7 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',🍁𝗕𝗟𝗔𝗖𝗞𝗗𝗥𝗔𝗚𝗢𝗡
+	zenz: 'https://zenzapis.xyz',🍁𝗕𝗟𝗔𝗖𝗞𝗗𝗥𝗔𝗚𝗢𝗡🍁
 }
 
 //Api Key\\
@@ -34,7 +34,7 @@ global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '🍁𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡' //Bot Pacage Name
+global.packname = '🍁𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡🍁' //Bot Pacage Name
 global.author = '🍁𝙍𝙀𝘼𝙇__𝗜𝗗𝗨𝗪𝗔' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
