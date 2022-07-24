@@ -9,7 +9,7 @@ const chalk = require('chalk')
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',🍁𝗕𝗟𝗔𝗖𝗞𝗗𝗥𝗔𝗚𝗢𝗡🍁
+	zenz: 'https://zenzapis.xyz',Blackdragon
 }
 
 //Api Key\\
@@ -26,16 +26,16 @@ global.owner = ['+94740018703'] //Owner number in aive msg
 global.premium = ['+94740018703'] //Owner Number info
 global.ownernomer = '+94740018703' //Owner Number <<<
 
-global.ownername = '🍁𝙍𝙀𝘼𝙇__𝗜𝗗𝗨𝗪𝗔' //Owner Name
-global.botname = ' 🍁𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡' //Bot Name
+global.ownername = 'real_iduwa' //Owner Name
+global.botname = ' real_iduwa' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '🍁𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡🍁' //Bot Pacage Name
-global.author = '🍁𝙍𝙀𝘼𝙇__𝗜𝗗𝗨𝗪𝗔' //Author Name
+global.packname = 'Black dragon' //Bot Pacage Name
+global.author = 'Black dragon' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
