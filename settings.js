@@ -20,7 +20,8 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is 
-My Creator is srmal dinetg` //Costomize Alive Message (type your message in `` )
+My Creator is srmal dineth
+//Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94740018703'] //Owner number in aive msg
 global.premium = ['+94740018703'] //Owner Number info
