@@ -23,9 +23,9 @@ global.alivemsg = `My name is
 My Creator is srmal dineth
 //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94740018703'] //Owner number in aive msg
-global.premium = ['+94740018703'] //Owner Number info
-global.ownernomer = '+94740018703' //Owner Number <<<
+global.owner = ['+94701407829'] //Owner number in aive msg
+global.premium = ['+94701407829'] //Owner Number info
+global.ownernomer = '+94701407829' //Owner Number <<<
 
 global.ownername = 'real_iduwa' //Owner Name
 global.botname = ' real_iduwa' //Bot Name
